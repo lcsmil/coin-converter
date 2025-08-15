@@ -104,7 +104,8 @@ class _AmountInputState extends State<AmountInput> {
               onChanged: (value) {
                 if (_debounce?.isActive ?? false) _debounce!.cancel();
                 _debounce = Timer(const Duration(milliseconds: 250), () {
-                  final amount = double.tryParse(value) ?? 0.0;
+                  final normalizedValue = value.replaceAll(',', '.');
+                  final amount = double.tryParse(normalizedValue) ?? 0.0;
                   widget.onAmountChanged(amount);
                 });
               },
@@ -129,7 +130,7 @@ class _AmountTextField extends StatelessWidget {
   Widget build(BuildContext context) {
     return TextField(
       controller: controller,
-      keyboardType: const TextInputType.numberWithOptions(
+      keyboardType: TextInputType.numberWithOptions(
         decimal: true,
       ),
       inputFormatters: [Helper.decimalInputFormatter],

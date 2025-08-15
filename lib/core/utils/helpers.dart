@@ -11,5 +11,5 @@ class Helper {
   }
 
   static final FilteringTextInputFormatter decimalInputFormatter =
-      FilteringTextInputFormatter.allow(RegExp(r'^\d*\.?\d{0,2}'));
+      FilteringTextInputFormatter.allow(RegExp(r'^\d*[.,]?\d{0,2}'));
 }
