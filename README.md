@@ -2,6 +2,9 @@
 
 A Flutter application demonstrating Clean Architecture principles, BLoC state management, and modern mobile development practices for currency conversion functionality.
 
+<img width="405" height="829" alt="image" src="https://github.com/user-attachments/assets/5ca05d96-19ed-4042-ab89-2b98910b1a9d" />
+
+
 ### Clean Architecture Structure
 ```
 lib/
