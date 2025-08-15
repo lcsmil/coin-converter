@@ -1,0 +1,63 @@
+{
+  "@@locale": "es",
+  "appName": "Conversor de Monedas",
+  "@appName": {
+    "description": "El nombre de la aplicación"
+  },
+  "networkErrorMessage": "Error de red. Por favor, comprueba tu conexión.",
+  "@networkErrorMessage": {
+    "description": "Mensaje mostrado cuando ocurre un error de red"
+  },
+  "generalErrorMessage": "Algo salió mal. Por favor, inténtalo de nuevo.",
+  "@generalErrorMessage": {
+    "description": "Mensaje de error genérico"
+  },
+  "invalidAmountMessage": "Por favor, introduce una cantidad válida.",
+  "@invalidAmountMessage": {
+    "description": "Mensaje mostrado cuando se introduce una cantidad inválida"
+  },
+  "convertButtonLabel": "Cambiar",
+  "@convertButtonLabel": {
+    "description": "Etiqueta para el botón de conversión"
+  },
+  "errorDialogTitle": "Error",
+  "@errorDialogTitle": {
+    "description": "Título para diálogos de error"
+  },
+  "conversionErrorMessage": "No se pudo realizar la conversión. Por favor intenta de nuevo.",
+  "@conversionErrorMessage": {
+    "description": "Mensaje mostrado cuando falla una conversión"
+  },
+  "okButtonLabel": "OK",
+  "@okButtonLabel": {
+    "description": "Etiqueta para el botón OK"
+  },
+  "fromCurrencyLabel": "De",
+  "@fromCurrencyLabel": {
+    "description": "Etiqueta para la moneda de origen"
+  },
+  "toCurrencyLabel": "A",
+  "@toCurrencyLabel": {
+    "description": "Etiqueta para la moneda de destino"
+  },
+  "fiatCurrencyTitle": "FIAT",
+  "@fiatCurrencyTitle": {
+    "description": "Título para la selección de moneda FIAT"
+  },
+  "cryptoCurrencyTitle": "Crypto",
+  "@cryptoCurrencyTitle": {
+    "description": "Título para la selección de moneda Crypto"
+  },
+  "estimatedRateLabel": "Tasa estimada",
+  "@estimatedRateLabel": {
+    "description": "Etiqueta para la tasa de cambio estimada"
+  },
+  "youWillReceiveLabel": "Recibirás",
+  "@youWillReceiveLabel": {
+    "description": "Etiqueta para la cantidad a recibir"
+  },
+  "estimatedTimeLabel": "Tiempo estimado",
+  "@estimatedTimeLabel": {
+    "description": "Etiqueta para el tiempo estimado de transacción"
+  }
+}

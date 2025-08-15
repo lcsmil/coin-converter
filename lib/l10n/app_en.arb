@@ -1,0 +1,63 @@
+{
+  "@@locale": "en",
+  "appName": "Coin Converter",
+  "@appName": {
+    "description": "The name of the application"
+  },
+  "networkErrorMessage": "Network error. Please check your connection.",
+  "@networkErrorMessage": {
+    "description": "Message shown when a network error occurs"
+  },
+  "generalErrorMessage": "Something went wrong. Please try again.",
+  "@generalErrorMessage": {
+    "description": "Generic error message"
+  },
+  "invalidAmountMessage": "Please enter a valid amount.",
+  "@invalidAmountMessage": {
+    "description": "Message shown when an invalid amount is entered"
+  },
+  "convertButtonLabel": "Convert",
+  "@convertButtonLabel": {
+    "description": "Label for the convert button"
+  },
+  "errorDialogTitle": "Error",
+  "@errorDialogTitle": {
+    "description": "Title for error dialogs"
+  },
+  "conversionErrorMessage": "Could not perform the conversion. Please try again.",
+  "@conversionErrorMessage": {
+    "description": "Message shown when a conversion fails"
+  },
+  "okButtonLabel": "OK",
+  "@okButtonLabel": {
+    "description": "Label for OK button"
+  },
+  "fromCurrencyLabel": "From",
+  "@fromCurrencyLabel": {
+    "description": "Label for the source currency"
+  },
+  "toCurrencyLabel": "To",
+  "@toCurrencyLabel": {
+    "description": "Label for the target currency"
+  },
+  "fiatCurrencyTitle": "FIAT",
+  "@fiatCurrencyTitle": {
+    "description": "Title for FIAT currency selection"
+  },
+  "cryptoCurrencyTitle": "Crypto",
+  "@cryptoCurrencyTitle": {
+    "description": "Title for Crypto currency selection"
+  },
+  "estimatedRateLabel": "Estimated rate",
+  "@estimatedRateLabel": {
+    "description": "Label for the estimated exchange rate"
+  },
+  "youWillReceiveLabel": "You'll receive",
+  "@youWillReceiveLabel": {
+    "description": "Label for the amount to be received"
+  },
+  "estimatedTimeLabel": "Estimated time",
+  "@estimatedTimeLabel": {
+    "description": "Label for the estimated transaction time"
+  }
+}

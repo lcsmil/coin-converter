@@ -1,0 +1,63 @@
+{
+  "@@locale": "pt",
+  "appName": "Conversor de Moedas",
+  "@appName": {
+    "description": "O nome da aplicação"
+  },
+  "networkErrorMessage": "Erro de rede. Por favor, verifique sua conexão.",
+  "@networkErrorMessage": {
+    "description": "Mensagem exibida quando ocorre um erro de rede"
+  },
+  "generalErrorMessage": "Algo deu errado. Por favor, tente novamente.",
+  "@generalErrorMessage": {
+    "description": "Mensagem de erro genérica"
+  },
+  "invalidAmountMessage": "Por favor, insira um valor válido.",
+  "@invalidAmountMessage": {
+    "description": "Mensagem exibida quando um valor inválido é inserido"
+  },
+  "convertButtonLabel": "Converter",
+  "@convertButtonLabel": {
+    "description": "Rótulo para o botão de conversão"
+  },
+  "errorDialogTitle": "Erro",
+  "@errorDialogTitle": {
+    "description": "Título para diálogos de erro"
+  },
+  "conversionErrorMessage": "Não foi possível realizar a conversão. Por favor, tente novamente.",
+  "@conversionErrorMessage": {
+    "description": "Mensagem exibida quando uma conversão falha"
+  },
+  "okButtonLabel": "OK",
+  "@okButtonLabel": {
+    "description": "Rótulo para o botão OK"
+  },
+  "fromCurrencyLabel": "De",
+  "@fromCurrencyLabel": {
+    "description": "Rótulo para a moeda de origem"
+  },
+  "toCurrencyLabel": "Para",
+  "@toCurrencyLabel": {
+    "description": "Rótulo para a moeda de destino"
+  },
+  "fiatCurrencyTitle": "FIAT",
+  "@fiatCurrencyTitle": {
+    "description": "Título para a seleção de moeda FIAT"
+  },
+  "cryptoCurrencyTitle": "Crypto",
+  "@cryptoCurrencyTitle": {
+    "description": "Título para a seleção de moeda Crypto"
+  },
+  "estimatedRateLabel": "Taxa estimada",
+  "@estimatedRateLabel": {
+    "description": "Rótulo para a taxa de câmbio estimada"
+  },
+  "youWillReceiveLabel": "Você receberá",
+  "@youWillReceiveLabel": {
+    "description": "Rótulo para o valor a ser recebido"
+  },
+  "estimatedTimeLabel": "Tempo estimado",
+  "@estimatedTimeLabel": {
+    "description": "Rótulo para o tempo estimado de transação"
+  }
+}
